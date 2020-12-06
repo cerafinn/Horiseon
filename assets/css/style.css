@@ -23,6 +23,8 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    min-height: 20px;
+    overflow: auto;
 }
 
 header h1 {
@@ -34,7 +36,7 @@ header span {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -42,7 +44,7 @@ header div {
     font-size: 20px;
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -79,7 +81,7 @@ header div ul li {
 .online-presence {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    min-height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -87,6 +89,7 @@ header div ul li {
 
 .online-presence img {
     max-height: 200px;
+    overflow: auto;
 }
 
 .online-presence h2 {
@@ -107,6 +110,7 @@ header div ul li {
     background-color: #2589bd;
     display: inline-block;
     vertical-align: top;
+    min-width: 180px;
 }
 
 .benefit {
