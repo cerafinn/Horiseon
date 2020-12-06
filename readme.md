@@ -1,10 +1,10 @@
 # Horiseon
-Refactoring code in order to improve Search Engine Optimization (SEO) for website.
+Horiseon is the website of a comapany designed to help businesses with Search Engine Optimization. The assignment was to refactor code for accessibility purposes.
 
 <br />
 
 ## General Information
-The website is designed to help businesses with Search Engine Optimization. Refactored HTML code for accessibility and consolidated CSS.
+Using working code, went through and refactored HTML code for accessibility and consolidated CSS to reduce repeats of the same code. Added semantic HTML, alt attributes to images, corrected in-page linking among other changes. Added to CSS code in order for viewport resizing not to affect readability of site.
 
 <br />
 
