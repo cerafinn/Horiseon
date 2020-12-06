@@ -9,7 +9,7 @@ Refactoring code in order to improve Search Engine Optimization (SEO) for websit
 <br />
 
 ## General Information
-The website is designed to help businesses with Search Engine Optimization. Cleaned up CSS and HTML code for accessibility standards.
+The website is designed to help businesses with Search Engine Optimization. Refactored HTML code for accessibility standards and consolidated CSS.
 
 <br />
 
