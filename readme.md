@@ -18,4 +18,4 @@ The website is designed to help businesses with Search Engine Optimization. Refa
 https://cerafinn.github.io/Horiseon/
 
 ## Contribution
-Refactored existing code with ❤️ by Andaleeb Farooq
+Refactoring of existing code by Andaleeb Farooq
